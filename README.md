@@ -51,6 +51,38 @@ python ringkasan_algoritma.py
 
 ---
 
+## 📸 Screenshot Output Program
+
+### Soal 2 — `diskon_biaya.py` — Kalkulator Diskon Biaya Kuliah
+![Output diskon_biaya.py](Screenshot%20(132).png)
+
+---
+
+### Soal 1 — `status_mahasiswa.py` — Input Data 5 Mahasiswa
+![Output status_mahasiswa.py - input data mahasiswa](Screenshot%20(133).png)
+
+---
+
+### Soal 1 & 3 — Laporan Status Mahasiswa + Laporan Inventaris
+![Laporan status mahasiswa dan laporan inventaris stok](Screenshot%20(134).png)
+
+---
+
+### Soal 3 & 4 — Ringkasan Stok + Menu Interaktif
+![Ringkasan statistik inventaris dan menu interaktif SI Mahasiswa](Screenshot%20(135).png)
+
+---
+
+### Soal 4 — `menu_si_mahasiswa.py` — Submenu Diskon & Stok + Soal 6
+![Menu interaktif submenu diskon dan cek stok](Screenshot%20(136).png)
+
+---
+
+### Soal 6 — `ringkasan_algoritma.py` — Tabel Ringkasan Statistik
+![Tabel ringkasan: mahasiswa aktif 40%, diskon rata-rata 16.2%, item restock 75%](Screenshot%20(137).png)
+
+---
+
 ## 📋 Penjelasan Program
 
 ### 1️⃣ `status_mahasiswa.py` — Laporan Status Mahasiswa
